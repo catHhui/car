@@ -39,8 +39,9 @@
 	程序改变文本t0、t3、t4内容（串口屏断电重启此设置失效）
 关于小车控制信息：
 
-        车上单片机的 uart3 为AT client，eap8266模块为AT server，控制信息为AT server下发的以字符‘d’结尾的URC数据（可自定义URC数据
-    处理方式），其中第10个字符为控制信息，保存在全局变量 CARDATA 中，其他 .C 文件可以使用外部函数 getCARDATA() 获取小车的控制信息。
+        车上单片机的 uart3 为AT client，eap8266模块为AT server，控制信息为AT server下发的以字符‘d’结尾的URC数据（可自定义
+    URC数据处理方式），其中第10个字符为控制信息，保存在全局变量 CARDATA 中，其他 .C 文件可以使用外部函数 getCARDATA() 获取
+    小车的控制信息。
 其他
 
     小车可以外加其他模块，
