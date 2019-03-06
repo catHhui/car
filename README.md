@@ -25,7 +25,7 @@
     L298N模块            X1
     5V直流电源           X2
 #### 按键图片
-![image](https://github.com/catHhui/files/blob/master/images/key.JPG）
+![image](https://github.com/catHhui/files/blob/master/images/key.JPG)
 ###  关于 ESP8266模块：
 #### 车上的ESP8266:
   	    已经设置为AP模式，创建WIFI热点：RTT-CAR  密码：12345678（模块断电后重启此设置不失效）
