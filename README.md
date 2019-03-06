@@ -48,9 +48,8 @@
     
 ## 实物图
 
-    小车图片
+#### 小车图片
 ![image](https://github.com/catHhui/files/blob/master/images/xiaoche.JPG)
-
-    控制器图片
+#### 控制器图片
 ![image](https://github.com/catHhui/files/blob/master/images/control.JPG)
       
