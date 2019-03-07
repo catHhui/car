@@ -58,4 +58,4 @@
       
 ## 演示视频
     
-![image](https://github.com/catHhui/files/blob/master/videos/video_20190307_193038.mp4)
+![](https://github.com/catHhui/files/raw/blob/master/videos/video_20190307_193038.mp4)
