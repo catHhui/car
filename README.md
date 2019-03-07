@@ -56,4 +56,4 @@
       
 ## 演示视频
     
-    因为独立5V电源问题过段时间提交视频。
+![image](https://github.com/catHhui/files/blob/master/videos/video_20190307_193038.mp4)
